@@ -1,0 +1,17 @@
+[
+{
+  "modid": "HoradricCube",
+  "name": "Horadric Cube",
+  "description": "A mod that adds the Horadric Cube, from Blizzard's Diablo II, to have more tool and armor customization.",
+  "version": "0.0.1",
+  "mcversion": "1.6.1",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Schuder"],
+  "credits": "Made by Schuder",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
